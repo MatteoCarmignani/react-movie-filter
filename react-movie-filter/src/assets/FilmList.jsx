@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-function FilmList() {
+function FilmList() { 
   const movies = [
     { title: 'Inception', genre: 'Fantascienza' },
     { title: 'Il Padrino', genre: 'Thriller' },
